@@ -1,0 +1,29 @@
+Process Document Outline: Configuration of VLANs on Network Switches
+
+1. Approval Table:    
+•	Include a table listing stakeholders and their roles in approving the SOP. This may include      network administrators, IT managers, security officers, etc. 
+•	Columns should include roles, names, and signatures.
+•	Ensure that appropriate sign-offs are obtained before finalizing the SOP.
+
+2. Purpose:
+•	Clearly state the purpose of the SOP, emphasizing the need for proper VLAN configuration to optimize network performance and enhance security.
+•	Explain how adhering to this procedure will help maintain consistency and efficiency in VLAN configuration across the network infrastructure.
+
+3. Scope and Objectives:
+•	Define the scope of the SOP, specifying which network switches and VLAN configurations are covered.
+•	Outline the objectives of proper VLAN configuration, such as segmenting network traffic, improving performance, enhancing security, and facilitating network management.
+
+4. Accountability Matrix:
+•	Create a matrix outlining the responsibilities of different roles involved in VLAN configuration, such as network engineers, administrators, and technicians.
+•	Clearly define who is accountable for each step of the process, from planning to implementation and documentation.
+
+5. Detailed Steps:
+•	Provide a step-by-step guide for configuring VLANs on network switches, including both command-line interface (CLI) and graphical user interface (GUI) methods if applicable.
+•	Include detailed instructions for tasks such as creating VLANs, assigning VLAN membership, configuring trunk ports, and implementing VLAN routing.
+•	Include screenshots or command examples to illustrate key steps and configurations.
+
+6. Revision History:
+•	Maintain a record of revisions made to the SOP, including the date of revision, the person responsible for the change, a brief description of the modification, and the reason for the revision.
+•	Ensure that the revision history is updated each time the SOP is modified, providing a clear audit trail of changes over time.
+
+By following this process document outline, network engineers can effectively configure VLANs on network switches, promoting consistency, efficiency, and security within the technology company's network infrastructure. 
